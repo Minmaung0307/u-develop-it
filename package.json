@@ -4,7 +4,7 @@
   "description": "Back-end APIs for a voting app.",
   "main": "server.js",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.18.1",
     "mysql2": "^2.2.5"
   },
   "scripts": {
@@ -16,5 +16,13 @@
   "license": "ISC",
   "devDependencies": {
     "jest": "^26.6.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Minmaung0307/u-develop-it.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Minmaung0307/u-develop-it/issues"
+  },
+  "homepage": "https://github.com/Minmaung0307/u-develop-it#readme"
 }
